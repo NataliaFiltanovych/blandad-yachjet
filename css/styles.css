@@ -44,7 +44,7 @@ img {
   margin: 0 auto;
   padding: 4px 30px;
 }
-.header-page .container {
+.header-container {
   display: flex;
   align-items: center;
 }
@@ -107,4 +107,76 @@ img {
 .social-link:hover,
 .social-link:focus {
   background: rgba(27, 65, 75, 0.5);
+}
+
+.section {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.container {
+  max-width: 1270px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.yacht-rental-section {
+  padding-top: 155px;
+  padding-bottom: 180px;
+}
+
+.yacht-rental-title {
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #fbfbfb;
+  max-width: 1001px;
+  margin: 0 auto;
+  padding-bottom: 24px;
+}
+.yacht-rental-text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.4;
+  text-align: center;
+  color: rgba(251, 251, 251, 0.7);
+  max-width: 597px;
+  margin: 0 auto;
+  padding-bottom: 48px;
+}
+.service-button {
+  background-color: #1b414b;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: #fbfbfb;
+  display: block;
+  border-radius: 15px;
+
+  min-width: 179px;
+  height: 52px;
+
+  margin: 0 auto;
+}
+
+.service-button:hover,
+.service-button:focus {
+  background-color: #fbfbfb;
+  color: #1b414b;
+}
+
+.yachtjet-fleet-section {
+}
+.yachtjet-fleet-main-title {
+}
+.yachtjet-fleet-container {
+}
+.yachtjet-fleet-title {
+}
+.yachtjet-fleet-text {
+}
+.yachtjet-fleet-image {
 }
