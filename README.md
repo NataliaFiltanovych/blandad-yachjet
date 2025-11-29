@@ -25,3 +25,4 @@ git merge page-header — зливає у поточну гілку код з г
 git push origin main — віддаленої гілки main
 
 git branch -d page-header — видаляє локальну гілку page-header
+ori
